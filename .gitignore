@@ -1,0 +1,29 @@
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+*~
+._*
+*.swp
+.sass-cache/
+/logs/
+tmp/
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+tags
+
+### CTX Boilerplate ###
+
+# Npm & Bower modules
+/node_modules/
+npm-debug.log
+
+# builds and test related
+/dist/
+
+# vscode workspace config
+.vscode/

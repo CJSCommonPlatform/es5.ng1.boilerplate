@@ -1,0 +1,10 @@
+
+//overrides
+
+$fa-font-path: '/assets/fonts';
+$govuk-frontend-toolkit-image-path: '/assets/images/';
+$govuk-template-image-path: '/assets/images/';
+$pdk-image-path: '/assets/images/';
+$nta-font-path: '/assets/fonts';
+
+@import "../../../../node_modules/@govuk/platform-template/platform-template";
